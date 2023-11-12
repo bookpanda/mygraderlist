@@ -1,12 +1,15 @@
 [submodule "mygraderlist-frontend"]
 	path = mygraderlist-frontend
 	url = https://github.com/bookpanda/mygraderlist-frontend
-[submodule "mygraderlist-auth"]
-	path = mygraderlist-auth
-	url = https://github.com/bookpanda/mygraderlist-auth
 [submodule "mygraderlist-proto"]
 	path = mygraderlist-proto
 	url = https://github.com/bookpanda/mygraderlist-proto
+[submodule "mygraderlist-auth"]
+	path = mygraderlist-auth
+	url = https://github.com/bookpanda/mygraderlist-auth
+[submodule "mygraderlist-backend"]
+	path = mygraderlist-backend
+	url = https://github.com/bookpanda/mygraderlist-backend
 [submodule "mygraderlist-gateway"]
 	path = mygraderlist-gateway
 	url = https://github.com/bookpanda/mygraderlist-gateway
