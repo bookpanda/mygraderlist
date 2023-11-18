@@ -16,6 +16,10 @@ MyGraderList is a web app that lets students assess the difficulties and worthin
 
 ## Server
 The server uses gRPC for communication between microservices and also implements clean architecture.
+
+### Why microservices?
+Just for learning purposes. I wanted to know how to implement microservices and this project was a good opportunity to do so.
+
 ### Technologies
 
 -   golang
